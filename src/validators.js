@@ -8,7 +8,7 @@ class ProductValidator {
   }
 
   validateRegulatoryId(regulatoryId, country) {
-    const cacheKey = regulatoryId;
+    const cacheKey = `${country}:${regulatoryId}`;
     
     if (this.validationCache.has(cacheKey)) {
       this.cacheHits++;
