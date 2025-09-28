@@ -31,8 +31,8 @@ class ProductValidator {
       return result;
     }
 
-    const isValid = patterns[country].test(regulatoryId);
     const cleanId = this.preprocessId(regulatoryId);
+    const isValid = patterns[country].test(cleanId);
     
     const result = isValid ? 
       { valid: true, cleanId: cleanId } : 
