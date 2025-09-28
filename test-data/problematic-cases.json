@@ -1,0 +1,52 @@
+[
+  {
+    "name": null,
+    "country": "DE",
+    "regulatoryId": "DE-12345-ABCD"
+  },
+  {
+    "name": "",
+    "country": "FR",
+    "regulatoryId": "FRAB123456"
+  },
+  {
+    "name": "Test Product",
+    "country": "XX",
+    "regulatoryId": "XX-12345-ABCD"
+  },
+  {
+    "name": "Null ID Product",
+    "country": "DE", 
+    "regulatoryId": null
+  },
+  {
+    "name": "Whitespace ID",
+    "country": "DE",
+    "regulatoryId": "   DE-12345-ABCD   "
+  },
+  {
+    "name": "Lowercase ID",
+    "country": "DE",
+    "regulatoryId": "de-12345-abcd"
+  },
+  {
+    "name": "Mixed Case Country",
+    "country": "de",
+    "regulatoryId": "DE-12345-ABCD"
+  },
+  {
+    "name": "Special Characters",
+    "country": "DE",
+    "regulatoryId": "DE-12345-ÄÖÜ"
+  },
+  {
+    "name": "Too Long Name That Exceeds Normal Length Limits And Should Be Handled Gracefully",
+    "country": "DE",
+    "regulatoryId": "DE-12345-ABCD"
+  },
+  {
+    "name": "Number Name 12345",
+    "country": "DE",
+    "regulatoryId": "DE-12345-ABCD"
+  }
+]

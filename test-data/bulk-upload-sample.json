@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Aspirin Plus 500mg",
+    "country": "DE", 
+    "regulatoryId": "DE-12345-ABCD",
+    "manufacturer": "PharmaCorp GmbH"
+  },
+  {
+    "name": "Paracetamol Extra",
+    "country": "FR",
+    "regulatoryId": "DE-12345-ABCD",
+    "manufacturer": "MedTech Solutions"
+  },
+  {
+    "name": "Ibuprofen 400mg",
+    "country": "DE",
+    "regulatoryId": "DE-67890-EFGH",
+    "manufacturer": "GermanPharma AG"
+  },
+  {
+    "name": "Vitamin D3 1000IU", 
+    "country": "FR",
+    "regulatoryId": "FRAB123456",
+    "manufacturer": "FrenchHealth SA"
+  },
+  {
+    "name": "Omega-3 Complex",
+    "country": "DE",
+    "regulatoryId": "DE-12345-ABCD",
+    "manufacturer": "HealthSupplements Ltd"
+  },
+  {
+    "name": "Calcium Carbonate",
+    "country": "IT",
+    "regulatoryId": "IT12345678AB",
+    "manufacturer": "Italian Nutrients SpA"
+  },
+  {
+    "name": "Iron Supplement",
+    "country": "DE",
+    "regulatoryId": "DE54321WXYZ",
+    "manufacturer": "Mineral Health GmbH"
+  },
+  {
+    "name": "Magnesium 400mg",
+    "country": "ES",
+    "regulatoryId": "ESA1234567B",
+    "manufacturer": "Spanish Vitamins SL"
+  },
+  {
+    "name": "Zinc Tablets",
+    "country": "CH",
+    "regulatoryId": "CH123456ABC",
+    "manufacturer": "Swiss Health Corp"
+  },
+  {
+    "name": "B-Complex Multi",
+    "country": "AT",
+    "regulatoryId": "ATABC12345",
+    "manufacturer": "Austrian Pharma GmbH"
+  },
+  {
+    "name": "Probiotic Formula",
+    "country": "NL",
+    "regulatoryId": "NL1234ABCD56",
+    "manufacturer": "Dutch Health BV"
+  },
+  {
+    "name": "Coenzyme Q10",
+    "country": "DE",
+    "regulatoryId": "DE-11111-ZZZZ",
+    "manufacturer": "Advanced Nutrients DE"
+  },
+  {
+    "name": "Folic Acid 5mg",
+    "country": "FR", 
+    "regulatoryId": "FRXY789012",
+    "manufacturer": "Pharma France SA"
+  },
+  {
+    "name": "Glucosamine Plus",
+    "country": "IT",
+    "regulatoryId": "IT87654321CD",
+    "manufacturer": "Italian Joints SpA"
+  },
+  {
+    "name": "Melatonin 3mg",
+    "country": "DE",
+    "regulatoryId": "DE-99999-SLEEP",
+    "manufacturer": "Sleep Solutions GmbH"
+  },
+  {
+    "name": "Garlic Extract",
+    "country": "ES",
+    "regulatoryId": "ESG9876543H",
+    "manufacturer": "Natural Spain SL"
+  },
+  {
+    "name": "Turmeric Curcumin",
+    "country": "CH",
+    "regulatoryId": "CH654321XYZ",
+    "manufacturer": "Swiss Natural AG"
+  },
+  {
+    "name": "Green Tea Extract",
+    "country": "AT",
+    "regulatoryId": "ATXYZ54321",
+    "manufacturer": "Herbal Austria GmbH"
+  },
+  {
+    "name": "Ginkgo Biloba",
+    "country": "NL",
+    "regulatoryId": "NL5678EFGH90",
+    "manufacturer": "Netherlands Herbs BV"
+  },
+  {
+    "name": "Saw Palmetto",
+    "country": "DE",
+    "regulatoryId": "DE-55555-PALM",
+    "manufacturer": "Men's Health DE GmbH"
+  },
+  {
+    "name": "Cranberry Extract",
+    "country": "FR",
+    "regulatoryId": "FRCR456789",
+    "manufacturer": "Berry Health France"
+  },
+  {
+    "name": "Echinacea Immune",
+    "country": "IT",
+    "regulatoryId": "IT11223344EF",
+    "manufacturer": "Immune Support Italia"
+  },
+  {
+    "name": "Valerian Root",
+    "country": "DE",
+    "regulatoryId": "DE-77777-SLEEP",
+    "manufacturer": "Natural Sleep GmbH"
+  },
+  {
+    "name": "Milk Thistle",
+    "country": "ES",
+    "regulatoryId": "ESM7654321L",
+    "manufacturer": "Liver Health España"
+  },
+  {
+    "name": "Biotin 10000mcg",
+    "country": "CH",
+    "regulatoryId": "CH987654BIO",
+    "manufacturer": "Beauty Swiss AG"
+  }
+]

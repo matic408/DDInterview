@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Aspirin 500mg",
+    "country": "DE",
+    "regulatoryId": "DE-12345-ABCD"
+  },
+  {
+    "name": "Paracetamol",
+    "country": "DE", 
+    "regulatoryId": "DE54321WXYZ"
+  },
+  {
+    "name": "French Medicine",
+    "country": "FR",
+    "regulatoryId": "FRAB123456"
+  },
+  {
+    "name": "Italian Product",
+    "country": "IT",
+    "regulatoryId": "IT12345678AB"
+  },
+  {
+    "name": "Spanish Medicine",
+    "country": "ES",
+    "regulatoryId": "ESA1234567B"
+  },
+  {
+    "name": "Swiss Product",
+    "country": "CH",
+    "regulatoryId": "CH123456ABC"
+  },
+  {
+    "name": "Austrian Medicine",
+    "country": "AT",
+    "regulatoryId": "ATABC12345"
+  },
+  {
+    "name": "Dutch Product",
+    "country": "NL",
+    "regulatoryId": "NL1234ABCD56"
+  }
+]
